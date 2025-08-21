@@ -37,6 +37,7 @@ ORDER BY total_sales DESC;
 | Low Fat          | 776319.6784000006  | 
 | Regular          | 425361.8023999995  | 
 ```
+<img width="542" height="504" alt="download (1)" src="https://github.com/user-attachments/assets/ef022fa5-806b-4806-bc65-c1ae75209930" />
 
 ### Total Sales by Item Type
 ```sql
@@ -57,6 +58,8 @@ LIMIT 5;
 | Dairy                  | 101276.45959999996  |
 ```
 
+<img width="989" height="590" alt="download (2)" src="https://github.com/user-attachments/assets/7f3bd222-f417-4258-9fcc-9e1083fee3ff" />
+
 ### Fat Content by Outlet for Total Sales
 ```sql
 SELECT Outlet_Type AS OutletType,
@@ -75,6 +78,8 @@ ORDER BY Outlet_Type DESC;
 | Supermarket Type1  | 507886.2953999999  | 279663.5913999997  |
 | Grocery Store      | 99814.36499999993  | 52124.78200000001  |
 ```
+
+<img width="989" height="590" alt="download (3)" src="https://github.com/user-attachments/assets/49b9929a-9e46-4281-a0ab-74b61903017c" />
 
 ###  Total Sales by Outlet Establishment Year
 ```sql
@@ -102,6 +107,9 @@ ORDER BY Outlet_Est_Year ASC;
 | 2022 | 131477.77239999996 | 141.7     | 928         | 3.97       |
 ```
 
+<img width="799" height="470" alt="download (4)" src="https://github.com/user-attachments/assets/f12d2857-6501-4dde-924b-08447d595638" />
+
+
 ## Percentage of sales by outlet size
 ```sql
 SELECT Outlet_Size,  SUM(Total_Sales) AS Total_Sales, 
@@ -119,7 +127,8 @@ ORDER BY Total_Sales DESC;
 | Medium      | 507895.73    | 42.27%           |
 | Small       | 444794.17    | 37.01%           |
 | High        | 248991.58    | 20.72%           |
----
+```
+<img width="504" height="504" alt="download (5)" src="https://github.com/user-attachments/assets/715d4866-69b0-4d83-aab3-a37109ffaad3" />
 
 
 ## all metrics by outlet_type
@@ -144,3 +153,4 @@ ORDER BY TotalSales DESC;
 | Supermarket Type2  | 131477.77      | 10.94%           | 141.7     | 928         | 3.97       |
 | Supermarket Type3  | 130714.67      | 10.88%           | 139.8     | 935         | 3.95       |  
 ```
+
