@@ -1,4 +1,4 @@
-# Grocery Sales Analysis (SQL Based)
+# Sales Analysis Performance
 
 **Dataset Created By:** [YouTube](https://www.youtube.com/@datatutorials1)
 **Dataset:** [blinkit_data.csv](https://drive.google.com/drive/folders/1VYDaziCCvS9sEeMpF9OfdfGG17U0Ajmb)
@@ -153,4 +153,5 @@ ORDER BY TotalSales DESC;
 | Supermarket Type2  | 131477.77      | 10.94%           | 141.7     | 928         | 3.97       |
 | Supermarket Type3  | 130714.67      | 10.88%           | 139.8     | 935         | 3.95       |  
 ```
+
 
