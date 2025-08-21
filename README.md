@@ -1,7 +1,9 @@
 <h1 align="center">Blinkit Sales Performance</h1>
 
 
-<img width="740" height="529" alt="image" src="https://github.com/user-attachments/assets/b12874e2-35b0-479c-924d-60c718897ab0" />
+<p align="center">
+  <img width="740" height="529" alt="image" src="https://github.com/user-attachments/assets/b12874e2-35b0-479c-924d-60c718897ab0" />
+</p>
 
 
 ## Project Overview
@@ -58,6 +60,4 @@ The analysis highlights that Blinkit’s performance is driven by healthier prod
 
 ---
 
-## Author
-**Zero Analyst**  
-Part of an ongoing portfolio showcasing practical SQL data analysis projects.  
+> **Created by Afiqah Khairuna @ Universiti Kebangsaan Malaysia**
